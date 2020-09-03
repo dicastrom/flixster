@@ -20,7 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="https://recordit.co/HrwZXtPROj" width=250><br>
+<img src="http://g.recordit.co/HrwZXtPROj.gif" width=250><br>
 
 ### Notes
 Once again the biggest challenges I faced making this app came from X-Code itself. At first it simply refused to let me make an outlet and it only worked after I closed it completely, Product>Clean and re ran the simulator. Once that was working I am happy to say my app is done and fully functional!
